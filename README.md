@@ -5,13 +5,13 @@ A robot navigates obstacles and stairs-like cells, using heuristics to reach a t
 # Features
 A* search implementation with open/closed lists.
 # Two heuristics:
-Base heuristic → Manhattan distance.
-Advanced heuristic → Combines Manhattan distance with penalties/bonuses based on height cost.
+-**Base heuristic** → Manhattan distance.
+-**Advanced heuristic** → Combines Manhattan distance with penalties/bonuses based on height cost.
 
 # Grid-based environment with:
-Free cells,
-Walls/blocked cells,
-Special tiles that increase stairs cost.
+-Free cells,
+-Walls/blocked cells,
+-Special tiles that increase stairs cost.
 
 # Controls & Map Encoding
 -**0** → free cell
