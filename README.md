@@ -23,4 +23,5 @@ A* search implementation with open/closed lists.
 # Future Improvements
 Add GUI visualization for the grid and robot path.
 
-
+# Note:
+- Parts of the code were given, while other parts were implemented by the author
