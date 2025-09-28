@@ -17,8 +17,8 @@ A* search implementation with open/closed lists.
 - **0** → free cell
 - **-1** → wall/blocked
 - **positive integers** → stairs/steps tiles (increase stairs cost)
-- **The lamp target is defined by (lamp_location, lamp_height).
-- **The robot starts at robot_start_location.
+- The lamp target is defined by (lamp_location, lamp_height).
+- The robot starts at robot_start_location.
 
 # Future Improvements
 Add GUI visualization for the grid and robot path.
